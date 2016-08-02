@@ -1,7 +1,38 @@
-1) Put the coin inside the machine
-2) Select the type you want
-3) Put the mug in position
-4) Push the start button
-5) Take the mug and enjoy it!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% University Assignment Title Page 
+% LaTeX Template
+% Version 1.0 (27/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% WikiBooks (http://en.wikibooks.org/wiki/LaTeX/Title_Creation)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\title{Title page with logo}
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper]{article}
+\usepackage[italian]{babel}
+\usepackage[utf8x]{inputenc}
 
 
+\begin{document}
+
+  \section{How to make coffee}
+    \begin{enumerate}
+      \item Put the coin inside the machine
+      \item Select the type you want
+      \item Put the mug in position
+      \item Push the start button
+      \item Take the mug and enjoy it!
+   \end{enumerate}
+
+\end{document}
